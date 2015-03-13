@@ -4,7 +4,7 @@ package com.probability;
  * Created by saylik on 3/11/2015.
  */
 public class Probability {
-    private static final double PRECESSION = 0.001;
+//    private static final double PRECESSION = 0.001;
     private static final int CERTAINTY = 1;
     private double probability;
     private static final int LOWEST_POSSIBLE_CHANCE = 0;
